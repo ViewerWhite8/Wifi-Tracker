@@ -16,6 +16,9 @@ git clone https://github.com/ViewerWhite8/Wifi-Tracker
 cd Wifi-Tracker
 ```
 ```
+mv Wifi_Tracker.sh ..(Optional)
+```
+```
 chmod +x Wifi_Tracker.sh
 ```
 ```
