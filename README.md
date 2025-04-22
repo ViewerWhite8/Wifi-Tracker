@@ -11,6 +11,7 @@ git clone https://github.com/ViewerWhite8/Wifi-Tracker
 ```
 
 # How To Use
+Activate your wifi first, then specify the IP/name of the wifi targer around you 
 
 ```
 cd Wifi-Tracker
